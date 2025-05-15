@@ -1,5 +1,7 @@
 # US Keyboard Symbols
 
+This table lists common symbols available on a standard US QWERTY keyboard, including those accessed via direct key presses, Shift, or Alt codes on Windows. It covers punctuation, mathematical, currency, and other special symbols used in typing.
+
 | Symbol | Name(s) |
 |--------|---------|
 | `~` | Tilde |
@@ -61,3 +63,7 @@
 | `¹` | Superscript One |
 | `²` | Superscript Two |
 | `³` | Superscript Three |
+
+**Author**: Araham Abeddin
+
+**Quote**: "Symbols are the imaginative signposts of life." — Margot Asquith
